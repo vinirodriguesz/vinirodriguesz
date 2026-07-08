@@ -1,6 +1,9 @@
 ## Hi there 👋
 
-<!--
+# Certifications
+
+[![Cisco Badge]([URL_DA_IMAGEM](https://images.credly.com/size/110x110/images/5bdd6a39-3e03-4444-9510-ecff80c9ce79/image.png)](https://www.credly.com/badges/fe8441a2-7f86-48bc-b516-c51d799da5ce/public_url)
+
 **vinirodriguesz/vinirodriguesz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +16,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
