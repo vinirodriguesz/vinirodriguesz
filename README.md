@@ -20,6 +20,14 @@ Hi there, I'm Vinicius! 👋
 💻 Integrated High School and Technical Education  
 🌐 Technical Program in Internet and Web Development
 
-# Certifications
+# Certifications 🏆
 
-[![Cisco Badge](https://images.credly.com/size/110x110/images/5bdd6a39-3e03-4444-9510-ecff80c9ce79/image.png)](https://www.credly.com/badges/fe8441a2-7f86-48bc-b516-c51d799da5ce/public_url)
+<p align="left">
+  <a href="https://www.credly.com/badges/fe8441a2-7f86-48bc-b516-c51d799da5ce/public_url">
+    <img src="https://images.credly.com/size/110x110/images/5bdd6a39-3e03-4444-9510-ecff80c9ce79/image.png" alt="Cisco Badge 1" />
+  </a>
+
+  <a href="https://www.credly.com/badges/f9acbdfa-eec7-40ac-87a6-78969933ad44/public_url">
+    <img src="https://images.credly.com/size/110x110/images/242902b5-f527-42ad-865e-977c9e1b5b58/image.png" alt="Cisco Badge 2" />
+  </a>
+</p>
