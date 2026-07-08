@@ -7,7 +7,7 @@ Hi there, I'm Vinicius! 👋
 
 💬 Ask me about: Computer networks, IT solutions, photography, or motorcycles! I am bilingual (English/Portuguese), so feel free to chat with me in either language.
 
-📫 How to reach me: Let's connect on LinkedIn: [https://www.linkedin.com/in/vini-rodriguesz/].
+📫 How to reach me: Let's connect on LinkedIn: https://www.linkedin.com/in/vini-rodriguesz/.
 
 ⚡ Fun fact: When I'm not coding or studying networks, you can find me running my professional photography page, Vini Fotografiaz (Not available yet), or hitting the road on my motorcycle!
 
